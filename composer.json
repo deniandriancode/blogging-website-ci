@@ -1,0 +1,11 @@
+{
+    "name": "deni/blogging-website-ci",
+    "description": "Blogging website project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deni Andrian Prayoga"
+        }
+    ],
+    "require": {}
+}
